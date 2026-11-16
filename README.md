@@ -29,8 +29,7 @@ Projeto 3 do portfólio, feito em 2 dias (15 e 16/11/2026) a partir de um brief 
 │   ├── 05-avaliacoes.md              # Avaliação por 5 avaliadores simulados
 │   ├── 06-aderencia-brief.md         # O brief item por item: o que foi atendido e o que mudou
 │   ├── 07-plano-de-medicao.md        # Como medir as 4 metas do brief
-│   ├── 08-avaliacao-simulada.md      # Percurso cognitivo com 5 perfis simulados
-│   └── avaliacoes/                   # Avaliações individuais em HTML e PDF
+│   └── 08-avaliacao-simulada.md      # Percurso cognitivo com 5 perfis simulados
 └── logo/
     ├── *.png                         # Logo para fundo claro, fundo escuro e marca isolada
     └── original/                     # Imagem original gerada no Gemini

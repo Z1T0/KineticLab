@@ -29,7 +29,7 @@ O brief diz que 68% do abandono vem da dúvida de tamanho, mas o questionário p
 3. **As metas não têm como ser medidas.** Faltam eventos, fórmulas e linha de base. Rafael e Patrícia apontaram.
 4. **O questionário avança sozinho ao tocar numa opção**, o que fere a WCAG 3.2.2. Juliana apontou.
 5. **A capa diz que o teste "foi feito"**, e ele só acontece em 16/11. Carla apontou.
-6. **Textos com marca de IA**, como "usuária do projeto" na página 02 e no DIARIO, e "V2" aparecendo para o cliente. Carla e Marcão apontaram.
+6. **Textos com marca de IA**, como uma legenda em terceira pessoa na página 02 e "V2" aparecendo para o cliente. Carla e Marcão apontaram.
 7. **A borda dos campos tem contraste de 1,39:1**, e os ícones do cabeçalho são caracteres de 13 a 19 px sem nome acessível. Juliana apontou.
 8. **O encaixe das peças não é explicado no celular.** Ninguém responde como trava, se faz barulho ou se solta na chuva. Marcão apontou.
 9. **A conta dos 41% usa pares de R$ 1.299.** Com pares de R$ 699 a vantagem some, e o solado avulso ficou fora da conta. Marcão e Patrícia apontaram.
@@ -44,7 +44,7 @@ O brief diz que 68% do abandono vem da dúvida de tamanho, mas o questionário p
 3. Ampliar as opções de tamanho do questionário para 34 a 45.
 4. Voltar a "tocar seleciona, Continuar avança" no questionário.
 5. Reescrever as tarefas do roteiro sem usar as palavras da interface.
-6. Tirar "V2" da tela do cliente e trocar "usuária do projeto" por primeira pessoa.
+6. Tirar "V2" da tela do cliente e escrever as legendas em primeira pessoa.
 
 ### Depois do teste
 1. Fazer uma solução de tamanho de verdade: pergunta pelo tênis atual e pelo número, largura do pé e tela de medição com folha A4.
