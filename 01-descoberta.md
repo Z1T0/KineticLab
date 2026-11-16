@@ -6,7 +6,6 @@
 
 **Certezas** (vêm do brief)
 - Tíquete médio de R$ 1.400 a R$ 2.200, venda direta (D2C).
-- 68% do abandono de carrinho vem de dúvida sobre tamanho e densidade de espuma.
 - Tênis comum perde amortecimento entre 400 e 600 km.
 - Público de 24 a 45 anos, corredores de rua e trilha.
 
@@ -18,6 +17,7 @@
 - Um questionário de até 5 passos é concluído; com mais que isso, abandonam.
 
 **Dúvidas**
+- O brief diz que 68% do abandono de carrinho vem de dúvida sobre tamanho e densidade de espuma. É um dado do cliente, a verificar: como foi medido (pesquisa de saída, análise de sessões, estimativa)? Até ter essa resposta, ele não entra como certeza. *(Movido de "Certezas" em 16/11.)*
 - O corredor sabe dizer o próprio tipo de pisada?
 - Peso corporal é uma pergunta incômoda? Como perguntar sem constranger?
 - O sistema modular passa sensação de "tênis frágil, que desmonta"?
@@ -42,22 +42,35 @@
 4. Como você escolhe o amortecimento?
 5. Sabe qual é a sua pisada? Como descobriu?
 6. Quanto tempo dura um tênis seu? Como percebe que acabou?
-7. O que te faria pagar R$ 1.600 num tênis?
-8. Trocar só a sola ou a espuma faria sentido pra você?
+7. Qual foi o tênis mais caro que você já comprou? O que fez você decidir?
+8. Quando um tênis seu gasta só numa parte, como a sola ou a espuma, o que você faz com ele?
+
+*Revisado em 16/11. A simulação usou uma versão anterior das perguntas 7 e 8 ("O que te faria pagar R$ 1.600 num tênis?" e "Trocar só a sola ou a espuma faria sentido pra você?"). As duas eram hipotéticas, e a segunda pedia sim ou não sobre o próprio conceito. As novas perguntam sobre o que a pessoa já fez.*
 
 Perfil simulado: 6 corredores (3 rua, 2 trilha, 1 híbrido) + 1 fisioterapeuta esportivo.
 
-## 4. Achados simulados
-- 5 de 6 já compraram o número errado online pelo menos uma vez.
-- 4 de 6 não sabem a própria pisada com certeza; dizem "acho que neutra".
-- Todos percebem o fim do tênis pela dor (joelho, canela), não pela quilometragem.
-- 3 de 6 desconfiaram do modular: "vai descolar no meio da prova?".
-- Fisioterapeuta: "drop e densidade importam mais que a marca; o corredor amador escolhe pela cor".
+### Roteiro com especialista em biomecânica (fisioterapeuta ou educador físico)
+*Incluído em 15/11, na releitura do brief, que pede entrevistas "com corredores e especialistas biomecânicos". Antes só havia o roteiro dos corredores.*
+1. Como você avalia a pisada de um corredor? O que dá para saber sem equipamento?
+2. Um corredor amador consegue dizer a própria pisada olhando o desgaste da sola? Onde ele costuma errar?
+3. Que perguntas simples ajudam a escolher entre amortecimento e responsividade?
+4. Peso corporal muda a escolha da espuma? A partir de que faixa?
+5. Trocar o drop de 10 mm para 4 mm de uma vez é um risco? Como avisar o cliente?
+6. Além do número, o que mais importa no ajuste: largura, volume do peito do pé, arco?
+7. Como o corredor percebe que a espuma perdeu amortecimento antes de sentir dor?
+8. O que você não recomendaria de jeito nenhum num questionário online?
 
-Citações (fictícias):
-- "Comprei dois números, devolvi um, e o reembolso levou 20 dias." — corredora, 34
-- "Eu troco de tênis quando o joelho começa a reclamar." — corredor, 41
-- "Se eu pudesse trocar só a sola pra trilha, eu nem teria três pares." — trail runner, 29
+O que muda no produto conforme a resposta: a 2 decide se o "Não sei" da pisada precisa de perguntas extras; a 3 e a 4 viraram o "Seu foco" e o passo do peso; a 5 virou o "O que é drop?"; a 6 virou a largura do pé no passo 2.
+
+## 4. Hipóteses levantadas na simulação
+As entrevistas não aconteceram, então nada aqui é achado. São hipóteses que a simulação sugeriu e que precisam de corredores reais para serem confirmadas ou derrubadas:
+- Errar o número numa compra online é comum entre corredores.
+- Muita gente não sabe a própria pisada com certeza.
+- O corredor percebe o fim do tênis pela dor (joelho, canela), e não pela quilometragem.
+- O sistema modular pode passar a ideia de um tênis que descola no meio da prova.
+- Para um especialista, drop e densidade pesam mais que a marca na escolha.
+
+*Até 15/11 esta seção trazia contagens ("5 de 6", "4 de 6") e citações com idade. Tirei em 16/11: contagem sobre entrevistas que não aconteceram parece dado de pesquisa, e o número acabava sendo usado como argumento em outros documentos.*
 
 ## 5. Proto-personas
 
@@ -95,7 +108,7 @@ Citações (fictícias):
 |---|---|---|---|---|
 | Gatilho | Joelho dói, tênis com 650 km | Preocupada | Não sabe se é o tênis | Custo por km e vida útil visíveis |
 | Pesquisa | Lê reviews, pergunta no grupo | Confusa | Opiniões contraditórias | Questionário com recomendação explicada |
-| Escolha | Compara 3 modelos | Insegura | Tamanho e densidade (**68% do abandono**) | Tamanho recomendado + "veste como" |
+| Escolha | Compara 3 modelos | Insegura | Tamanho e densidade (o brief atribui 68% do abandono a isso; dado a verificar) | Tamanho recomendado + "veste como" |
 | Carrinho | Vê frete só no fim | Irritada | Custo surpresa | Frete por CEP na PDP e no drawer |
 | Checkout | Preenche 3 telas | Cansada | Cadastro e endereço duplicado | Tela única, Pix, endereço com 1 toque |
 | Pós-compra | Tênis aperta | Frustrada | Devolução burocrática | 30 dias de teste, troca grátis |

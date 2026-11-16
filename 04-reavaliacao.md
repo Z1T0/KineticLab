@@ -1,5 +1,7 @@
 # KINETIC // LAB · Reavaliação do projeto (15/11, véspera do teste)
 
+> **Nota de 16/11:** o teste com pessoas reais citado abaixo não aconteceu. Na noite de 15/11 ele foi trocado por um percurso cognitivo com 5 perfis simulados por IA ([08-avaliacao-simulada.md](08-avaliacao-simulada.md)). O roteiro está pronto e o teste continua pendente. Também tirei deste arquivo as contagens da descoberta simulada e reescrevi a enquete sugerida no item 1.
+
 Leitura do arquivo inteiro do Figma (páginas 00 a 11), feita como faria quem avalia um portfólio. Também rodei uma auditoria automática nas telas, olhando tamanho de texto, contraste, números inconsistentes e espaços reservados esquecidos.
 
 ## Veredito
@@ -24,11 +26,12 @@ Quem avaliar vai perguntar sobre isso.
 - **Hoje, se der tempo:** mande 3 perguntas para 5 a 10 corredores (grupo de corrida, WhatsApp):
   1. "Você já desistiu de comprar tênis online por medo de errar o tamanho?"
   2. "Sabe qual é a sua pisada?"
-  3. "Pagaria R$ 1.599 num tênis que dura o triplo trocando só a espuma?"
+  3. "Da última vez que você comprou um tênis de corrida, quanto pagou e por quanto tempo usou?"
+- A terceira pergunta era "Pagaria R$ 1.599 num tênis que dura o triplo trocando só a espuma?". Ela embutia o benefício na pergunta, "o triplo" nem é o que a conta mostra, e intenção de compra declarada não prevê compra. A nova pergunta registra o que a pessoa já fez, e a conta do custo por km fica para o produto mostrar.
 - Mesmo poucas respostas reais valem mais que as citações simuladas e podem confirmar ou derrubar a CSD.
 
 ### 2. O questionário começa pela pergunta mais difícil (médio)
-A primeira pergunta é sobre a pisada, e a própria descoberta diz que 4 de 6 pessoas não sabem a resposta.
+A primeira pergunta é sobre a pisada, e a matriz CSD tem como dúvida justamente se o corredor sabe dizer a própria pisada.
 - **Não mude antes do teste.** Observe se as pessoas travam ou usam o "Não sei".
 - Se travarem, isso vira um achado da Iteração 1: começar por tamanho e terreno, que são fáceis, e deixar a pisada para o fim.
 
@@ -42,7 +45,7 @@ As metas do brief estão na página 01 (conversão de 1,8% para 3,2%, devoluçã
 - A tarefa 2 pede a "sola de trilha", mas o chip se chama "Trail Lug", em inglês, com "terra e lama" embaixo. Isso testa se o nome é entendido, o que é bom, mas anote se alguém hesitar ali.
 
 ### 5. Tamanho: a maior dor tem a solução mais leve (médio)
-68% do abandono vem da dúvida de tamanho, mas a recomendação se apoia no "número que você costuma usar". A opção "me ajude a medir o pé com uma folha A4" existe, mas não tem tela.
+O brief atribui 68% do abandono à dúvida de tamanho (dado do cliente, ainda a verificar), mas a recomendação se apoia no "número que você costuma usar". A opção "me ajude a medir o pé com uma folha A4" existe, mas não tem tela.
 - Para o case, cite como próximo passo, ou desenhe uma tela simples de medição se sobrar tempo depois do teste.
 
 ### 6. Pequenas inconsistências (baixo)
