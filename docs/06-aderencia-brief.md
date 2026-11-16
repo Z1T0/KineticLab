@@ -91,7 +91,7 @@ Legenda: ✅ atendido · 🟡 atendido em parte ou com desvio justificado · �
 | Pedido | Status | Observação |
 |---|---|---|
 | Tarefa 1: calibrar o tênis pelo questionário | ✅ | |
-| Tarefa 2: trocar para o solado de **chuva** e incluir palmilha | 🟡 desvio | No projeto, a recomendação já entrega o Road Grip (o solado de chuva). Pedir para trocá-lo não testaria nada, então a tarefa virou "trocar para o de trilha". Justificado no DIARIO de 15/11 |
+| Tarefa 2: trocar para o solado de **chuva** e incluir palmilha | 🟡 desvio | No projeto, a recomendação já entrega o Road Grip (o solado de chuva). Pedir para trocá-lo não testaria nada, então a tarefa virou "trocar para o de trilha". Decidido em 15/11 |
 | Tarefa 3: checkout conferindo frete e garantia | ✅ | |
 | Métricas: conclusão, tempo, hesitação | ✅ | Tabela em 02-roteiro-teste.md |
 

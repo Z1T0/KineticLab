@@ -1,1 +1,20 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuração local do editor
+*.code-workspace
+.vscode/
+
+# Pacotes e arquivos brutos (ficam só no computador)
 *.zip
+raw_files/
+
+# Referências baixadas de sites de terceiros
+TEMPLATES/
+templates/
+
+# Diário do processo (fica só local)
+docs/DIARIO.md
+DIARIO.md
