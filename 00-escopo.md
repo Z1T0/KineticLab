@@ -3,7 +3,7 @@
 Prazo: entrega em 16/11/2026. Projeto 3 do portfólio.
 
 ## Regra de honestidade
-Pesquisa, entrevistas, personas e números são **simulados** (fictícios), por causa do prazo de 1 dia.
+Pesquisa, entrevistas, personas e números são **simulados** (fictícios), por causa do prazo curto (2 dias, a partir de um brief fechado).
 No estudo de caso, isso aparece escrito: "pesquisa simulada / proto-personas". Nunca apresentar como dado real.
 
 ## O que entra (MVP)
@@ -44,7 +44,7 @@ Faixa de configuração: R$ 1.599 a R$ 2.039 (dentro do tíquete do brief, R$ 1.
 - Convencional: 3 pares de R$ 1.299 (600 km cada) = **R$ 3.897 para 1.800 km → R$ 2,17/km**
 - Economia: **41%**. Frase na interface: "1 base KINETIC + 2 refis rodam 1.800 km por R$ 2.297. Três pares comuns custariam R$ 3.897."
 
-## Cronograma de 1 dia
+## Cronograma (planejado para 1 dia; levou 2, 15 e 16/11)
 | Bloco | O quê |
 |---|---|
 | 1 | Escopo, CSD, benchmarking, personas, empatia, jornada (docs) |
